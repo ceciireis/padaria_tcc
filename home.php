@@ -54,7 +54,7 @@ if(isset($_POST['adiconar_carrinho'])){
 
     <section class="home">
         <div class="content">
-            <h3>Um novo jeito de se deliciar</h3>
+            <h3>PADARIA NOVA OPÇÃO</h3>
             <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi, quod? Reiciendis ut porro iste totam.</p>
             <a href="about.php" class="white-btn">Descubra mais</a>
         </div>
